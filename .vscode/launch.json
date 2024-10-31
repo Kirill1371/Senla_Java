@@ -1,0 +1,53 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Task3.Main",
+            "projectName": "test_b8b1e591"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Task2.Main",
+            "projectName": "test_b8b1e591"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Task1.Main",
+            "projectName": "test_b8b1e591"
+        },
+        {
+            "type": "java",
+            "name": "PasswordGenerator",
+            "request": "launch",
+            "mainClass": "PasswordGenerator",
+            "projectName": "test_b8b1e591"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "test_b8b1e591"
+        },
+        {
+            "type": "cmake",
+            "request": "launch",
+            "name": "CMake: внешний запуск",
+            "cmakeDebugType": "external",
+            "pipeName": "<...>"
+        },
+        {
+            "name": "Launch Chrome",
+            "request": "launch",
+            "type": "chrome",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
